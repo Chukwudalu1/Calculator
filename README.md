@@ -1,2 +1,2 @@
 # Calculator
-An Odin Project
+An Odin Project designed and developed by Dalu.
